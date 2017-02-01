@@ -1,0 +1,24 @@
+body.is-ghosting {
+	margin-top: 45px;
+}
+
+.jd-ghost-banner {
+	position: fixed;
+	top: 0;
+	width: auto;
+	background: #000;
+	width: 100%;
+	height: 45px;
+    z-index: 999;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.jd-ghost-banner-content {
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #FFF;
+	text-align: center;
+	margin-top: 10px;
+}
